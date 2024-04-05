@@ -5,7 +5,7 @@
 
 ## Live Link: https://social-media-app-eight-green.vercel.app/
 
-![image](https://github.com/MOHDSAMIULLAH/Social-Media-App/assets/91786605/f26107d5-527e-49c0-b050-4f8211c1ab15)
+![image](https://github.com/MOHDSAMIULLAH/Social-Media-App/assets/91786605/5d79895a-a723-49d0-b840-627795e77a95)
 
 
 ## Overview
